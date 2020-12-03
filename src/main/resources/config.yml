@@ -1,0 +1,12 @@
+messages:
+  mined: "&6&lSYSTEM ► &eYou have been charged &c${amount} &eto mine this spawner."
+  prevented: "&6&lSYSTEM ► &eYou do not have enough money to mine this spawner. You must have &c${amount}"
+permission-to-check: "silkspawners.silkdrop"
+spawner-tax-delay-seconds: 120
+spawners:
+  cow:
+    type: "COW"
+    cost: 1000
+  sheep:
+    type: "SHEEP"
+    cost: 500

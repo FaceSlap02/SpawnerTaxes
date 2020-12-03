@@ -1,0 +1,6 @@
+name: SpawnerTax
+version: 1.0
+main: me.activated.spawnertax.SpawnerTax
+softdepend: [Vault]
+commands:
+  spawnertax:
